@@ -1,3 +1,11 @@
+<h1><i>NAVIGATION EXAMPLE REACT-NATIVE</i></h1>
+<p>In my project, I focused on navigation operations. When the button is clicked on the first page, transition to the second page is provided. Also, data such as the username is retrieved from the first page using route params, and the transition back to the first page is achieved using the `goBack` function.</p>
+<div style="display-flex">
+   <img src="SS1.png">
+   <img src="SS2.png">
+</div>
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
